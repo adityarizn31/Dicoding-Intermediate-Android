@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sub1_AppsStory</string>
+    <string name="username">Username</string>
+    <string name="description">Description</string>
+    <string name="user">Aditya</string>
+    <string name="descDetail">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.</string>
+    <string name="email">Email</string>
+    <string name="Password">password</string>
+    <string name="login">L O G I N</string>
+
+    <string name="password">Password</string>
+    <string name="register">Dont Have An Account </string>
+    <string name="click">Click Here</string>
+    <string name="tv_click">Click Here</string>
+    <string name="name">Name</string>
+    <string name="open_camera">Buka Camera</string>
+    <string name="addstory">addstory</string>
+    <string name="logout">logout</string>
+</resources>
